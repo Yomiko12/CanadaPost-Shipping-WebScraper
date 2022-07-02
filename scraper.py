@@ -15,8 +15,9 @@ for i in range(13): provinces.append(sc.Province(provinceNames[i], provincePosta
 #USER MODIFIABLE VALUES
 #######################
 startLocationPostalCode = "R3X1W2"
-items.append(sc.Item('Wallet', 10, 10, 10, 0.1))
 items.append(sc.Item('Windshield', 10, 10, 10, 1.0))
+items.append(sc.Item('Wallet', 10, 10, 10, 0.1))
+
 
 
 ######################
