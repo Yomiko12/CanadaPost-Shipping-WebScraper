@@ -50,13 +50,20 @@ def submitAndGetCost():#Return cost after all values have been inputted
 	time.sleep(2)
 
 	#Get price
-	price =  web.find_element_by_xpath('/html/body/div[2]/div/div/div/div/form/div/div[2]/div[4]/div/div/dl/dd[1]/div/div/div[1]/div[2]/table/tbody/tr[6]/td[2]/strong').text
-
+	price =  web.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div/form/div/div[2]/div[3]/div/div/dl/dd[1]/div/div/div[1]/div[2]/table/tbody/tr[7]/td[2]/strong').text
+	price = float(price[1:])
+	tax = web.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div/form/div/div[2]/div[3]/div/div/dl/dd[1]/div/div/div[1]/div[2]/table/tbody/tr[6]/td[2]').text
+	tax = float(tax[1:])
 	#Return
 	web.execute_script("window.history.go(-1)")
 	time.sleep(2)
-	return price
+	return price-tax
 
+def printPrice():
+	print (pricingList[-1].productName)
+	print (pricingList[-1].locationName)
+	print (pricingList[-1].shippingPrice)
+	print('')
 
 #################
 #MAIN STARTS HERE
@@ -68,9 +75,9 @@ web.find_element_by_xpath('/html/body/div[2]/div/div/cpc-header/div[2]/div[1]/na
 time.sleep(2)
 web.find_element_by_xpath('//*[@id="usernameLarge"]').send_keys(user_name)
 web.find_element_by_xpath('//*[@id="passwordLarge"]').send_keys(password)
-exit()
-
-
+web.find_element_by_xpath('/html/body/div[1]/div/div/div[2]/div[1]/form/input[3]').click()
+time.sleep(5)
+web.get('https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s1')
 #Input start location postal code
 web.find_element_by_xpath('//*[@id="fromPostalCode"]').send_keys(startLocationPostalCode)
 
@@ -97,14 +104,11 @@ for i in range(len(items)):
 					price = submitAndGetCost()
 					#Add price information to database. FORMAT: product#, shipping type, location, price
 					pricingList.append(sc.priceInfo(items[i].productName, provinces[k].provinceName, price))
-					print (pricingList[-1].productName)
-					print (pricingList[-1].locationName)
-					print (pricingList[-1].shippingPrice)
-					print('')
+					printPrice()
 				except:
 					print("Failed to get price for ", items[i].productName, " in ", provinces[k].provinceName, " (", provinces[k].postalCode, ")")
 					time.sleep(5)
-			
+
 		if j==1: #Get America shipping costs
 			select = Select(web.find_element_by_xpath('//*[@id="toDestination"]'))
 			select.select_by_index(1)
@@ -123,10 +127,7 @@ for i in range(len(items)):
 					price = submitAndGetCost()
 					#Add price information to database. FORMAT: product#, shipping type, location, price
 					pricingList.append(sc.priceInfo(items[i].productName, ('State#'+str(k+1)), price))
-					print (pricingList[-1].productName)
-					print (pricingList[-1].locationName)
-					print (pricingList[-1].shippingPrice)
-					print('')
+					printPrice()
 				except:
 					print( "Failed to get price for ", items[i].productName, " in ", ( 'State#'+str(k+1) ) )
 					time.sleep(5)

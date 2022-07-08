@@ -2656,3 +2656,357 @@ Read port: 52898
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileV0yszd\\search.json.mozlz4", (void 0)))
 JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657247074845	Marionette	INFO	Stopped listening on port 52898
+7246957571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile2NwPb4"
+1657246957799	Marionette	INFO	Marionette enabled
+1657246957802	Marionette	INFO	Listening on port 53033
+Read port: 53033
+1657246957873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile2NwPb4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1657246995596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile9bVPAX"
+1657246995824	Marionette	INFO	Marionette enabled
+1657246995827	Marionette	INFO	Listening on port 53159
+Read port: 53159
+1657246996002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile9bVPAX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657247037030	Marionette	INFO	Stopped listening on port 53151657247039197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile4hEYLZ"
+1657247039428	Marionette	INFO	Marionette enabled
+1657247039432	Marionette	INFO	Listening on port 53293
+Read port: 53293
+1657247039617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile4hEYLZ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657247061852	Marionette	INFO	Stopped listening on port 53293
+1657247071754	geckodriver	INFO	Listening on 127.0.0.1:53398
+1657247074779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofiled4YDfC"
+1657247075052	Marionette	INFO	Marionette enabled
+1657247075056	Marionette	INFO	Listening on port 53413
+Read port: 53413
+1657247075315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofiled4YDfC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657247153223	geckodriver	INFO	Listening on 127.0.0.1:53541
+1657247156296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilevcxuzD"
+1657247156572	Marionette	INFO	Marionette enabled
+1657247156576	Marionette	INFO	Listening on port 53554
+Read port: 53554
+1657247156835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilevcxuzD\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657247217418	Marionette	INFO	Stopped listening on port 53554
+1657247219557	geckodriver	INFO	Listening on 127.0.0.1:53694
+1657247222579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileAFTINu"
+1657247222839	Marionette	INFO	Marionette enabled
+1657247222842	Marionette	INFO	Listening on port 53706
+Read port: 53706
+1657247223100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileAFTINu\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s2. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s2. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s2. Code 2152398879.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 6473 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 4501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657247435828	Marionette	INFO	Stopped listening on port 53706
+ errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile4QVuhX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657247435090	Marionette	INFO	Stopped listening on port 53929
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657247454955	geckodriver	INFO	Listening on 127.0.0.1:59119
+1657247457984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileYVxZF3"
+1657247458227	Marionette	INFO	Marionette enabled
+1657247458230	Marionette	INFO	Listening on port 59131
+Read port: 59131
+1657247458486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileYVxZF3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s2. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s2. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s2. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657247587049	Marionette	INFO	Stopped listening on port 59131
+[Parent 24592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+a802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s8, line 1547: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657247696888	Marionette	INFO	Stopped listening on port 59291657247699303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilel9Az36"
+1657247699557	Marionette	INFO	Marionette enabled
+1657247699561	Marionette	INFO	Listening on port 59475
+Read port: 59475
+1657247699824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilel9Az36\\search.json.mozlz4", (void 0)))
+1657247702129	Marionette	INFO	Stopped listening on port 59475
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
