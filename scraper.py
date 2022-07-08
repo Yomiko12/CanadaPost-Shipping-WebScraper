@@ -1,7 +1,14 @@
 from selenium import webdriver
+from selenium.webdriver.support.ui import Select
 import time
 import scraperClasses as sc
 web = webdriver.Firefox()
+from dotenv import load_dotenv   #for python-dotenv method
+load_dotenv()                    #for python-dotenv method
+import os 
+
+user_name = os.environ.get('USER')
+password = os.environ.get('PASSWORD')
 
 pricingList= []
 items = []
@@ -15,7 +22,7 @@ for i in range(13): provinces.append(sc.Province(provinceNames[i], provincePosta
 #USER MODIFIABLE VALUES
 #######################
 startLocationPostalCode = "R3X1W2"
-items.append(sc.Item('Windshield', 10, 10, 10, 1.0))
+items.append(sc.Item('Windshield', 16.2, 11.2, 6.5, 1.6))
 items.append(sc.Item('Wallet', 10, 10, 10, 0.1))
 
 
@@ -57,17 +64,29 @@ def submitAndGetCost():#Return cost after all values have been inputted
 #Go to canada post website
 web.get('https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e2s1')
 time.sleep(2)
+web.find_element_by_xpath('/html/body/div[2]/div/div/cpc-header/div[2]/div[1]/nav/div[1]/section/ul/li[4]').click()
+time.sleep(2)
+web.find_element_by_xpath('//*[@id="usernameLarge"]').send_keys(user_name)
+web.find_element_by_xpath('//*[@id="passwordLarge"]').send_keys(password)
+exit()
+
+
 #Input start location postal code
 web.find_element_by_xpath('//*[@id="fromPostalCode"]').send_keys(startLocationPostalCode)
 
+
+
 #Iterate through all items
 for i in range(len(items)):
-	inputBoxSize(items[i])
+	
 
 	#Iterate through all location selection types
 	for j in range(3):
 
-		if j==0: #Get canada shipping costs
+		if j==0: #Get Canada shipping costs
+			inputBoxSize(items[i])
+			web.find_element_by_xpath('/html/body/div[2]/div/div/div/div[2]/div/div[2]/div/div[3]/form/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/label').click()
+			web.find_element_by_xpath('/html/body/div[2]/div/div/div/div[2]/div/div[2]/div/div[3]/form/div[1]/div[2]/div[2]/div[2]/div[2]/div[3]/label').click()
 			#Iterate through all provinces/territories
 			for k in range(len(provinces)):
 				try:
@@ -84,4 +103,30 @@ for i in range(len(items)):
 					print('')
 				except:
 					print("Failed to get price for ", items[i].productName, " in ", provinces[k].provinceName, " (", provinces[k].postalCode, ")")
+					time.sleep(5)
+			
+		if j==1: #Get America shipping costs
+			select = Select(web.find_element_by_xpath('//*[@id="toDestination"]'))
+			select.select_by_index(1)
+			time.sleep(3)
+			web.find_element_by_xpath('/html/body/div[2]/div/div/div/div[2]/div/div[2]/div/div[3]/form/div/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/label').click()
+			web.find_element_by_xpath('/html/body/div[2]/div/div/div/div[2]/div/div[2]/div/div[3]/form/div/div[1]/div[2]/div[2]/div[2]/div[2]/div[3]/label').click()
+			inputBoxSize(items[i])
+
+			for k in range(63):
+				try:
+					#Pick next state/territory
+					select = Select(web.find_element_by_xpath('//*[@id="toUSState"]'))
+					select.select_by_index(k+1)
+
+					#Get price
+					price = submitAndGetCost()
+					#Add price information to database. FORMAT: product#, shipping type, location, price
+					pricingList.append(sc.priceInfo(items[i].productName, ('State#'+str(k+1)), price))
+					print (pricingList[-1].productName)
+					print (pricingList[-1].locationName)
+					print (pricingList[-1].shippingPrice)
+					print('')
+				except:
+					print( "Failed to get price for ", items[i].productName, " in ", ( 'State#'+str(k+1) ) )
 					time.sleep(5)

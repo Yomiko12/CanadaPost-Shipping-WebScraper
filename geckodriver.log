@@ -1495,3 +1495,1164 @@ JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
 1656118456237	Marionette	INFO	Stopped listening on port 60195
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657237154960	geckodriver	INFO	Listening on 127.0.0.1:63258
+1657237158024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilerBf1tF"
+1657237158447	Marionette	INFO	Marionette enabled
+1657237158451	Marionette	INFO	Listening on port 63270
+Read port: 63270
+1657237158534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilerBf1tF\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 7544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657237168682	Marionette	INFO	Stopped listening on port 63270
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657237448600	geckodriver	INFO	Listening on 127.0.0.1:63520
+1657237451625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilekKPGla"
+1657237451859	Marionette	INFO	Marionette enabled
+1657237451862	Marionette	INFO	Listening on port 63533
+Read port: 63533
+1657237452038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilekKPGla\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657237717326	Marionette	INFO	Stopped listening on port 63533
+7237534762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileXAJrKZ"
+1657237535029	Marionette	INFO	Marionette enabled
+1657237535033	Marionette	INFO	Listening on port 63672
+Read port: 63672
+1657237535194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileXAJrKZ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2. Code 2152398879.
+JavaScript error: resource://autofill/FormAutofillChild.jsm, line 108: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657237717985	Marionette	INFO	Stopped listening on port 63672
+\\lucas\\AppData\\Local\\Temp\\rust_mozprofilehFMKWt\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657237714085	Marionette	INFO	Stopped listening on port 63815
+1657237759225	geckodriver	INFO	Listening on 127.0.0.1:64025
+1657237762258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileti5fXB"
+1657237762479	Marionette	INFO	Marionette enabled
+1657237762482	Marionette	INFO	Listening on port 64038
+Read port: 64038
+1657237762552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileti5fXB\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657237788946	geckodriver	INFO	Listening on 127.0.0.1:64143
+1657237791980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile7MRI5t"
+1657237792210	Marionette	INFO	Marionette enabled
+1657237792213	Marionette	INFO	Listening on port 64156
+Read port: 64156
+1657237792390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile7MRI5t\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657237960136	geckodriver	INFO	Listening on 127.0.0.1:64365
+1657237963170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile35WhtB"
+1657237963390	Marionette	INFO	Marionette enabled
+1657237963393	Marionette	INFO	Listening on port 64380
+Read port: 64380
+1657237963462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile35WhtB\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657237966320	Marionette	INFO	Stopped listening on port 64380
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1657238005324	geckodriver	INFO	Listening on 127.0.0.1:64483
+1657238008358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileLbn1tZ"
+1657238008574	Marionette	INFO	Marionette enabled
+1657238008577	Marionette	INFO	Listening on port 64496
+Read port: 64496
+1657238008645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileLbn1tZ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64723
+1657238255957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileQaNOfU"
+1657238256173	Marionette	INFO	Marionette enabled
+1657238256176	Marionette	INFO	Listening on port 64736
+Read port: 64736
+1657238256244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileQaNOfU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 5637 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 4669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+1657238605559	geckodriver	INFO	Listening on 127.0.0.1:65062
+1657238608601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile9rQ5Zg"
+1657238608838	Marionette	INFO	Marionette enabled
+1657238608842	Marionette	INFO	Listening on port 65075
+Read port: 65075
+1657238609027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile9rQ5Zg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657238621365	Marionette	INFO	Stopped listening on port 65075
+[Parent 1204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657238673956	geckodriver	INFO	Listening on 127.0.0.1:65237
+1657238676997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileTnmLIg"
+1657238677215	Marionette	INFO	Marionette enabled
+1657238677219	Marionette	INFO	Listening on port 65250
+Read port: 65250
+1657238677288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileTnmLIg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657238687386	Marionette	INFO	Stopped listening on port 65250
+1657238778491	geckodriver	INFO	Listening on 127.0.0.1:65419
+1657238781533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileTYWvJW"
+1657238781750	Marionette	INFO	Marionette enabled
+1657238781753	Marionette	INFO	Listening on port 65431
+Read port: 65431
+1657238781823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileTYWvJW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657238811041	Marionette	INFO	Stopped listening on port 65431
+1657238813676	geckodriver	INFO	Listening on 127.0.0.1:49166
+1657238816726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileCriKQ3"
+1657238816958	Marionette	INFO	Marionette enabled
+1657238816962	Marionette	INFO	Listening on port 49180
+Read port: 49180
+1657238817151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileCriKQ3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657238878600	Marionette	INFO	Stopped listening on port 49181657238880723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile65N0Xt"
+1657238880960	Marionette	INFO	Marionette enabled
+1657238880963	Marionette	INFO	Listening on port 49314
+Read port: 49314
+1657238881161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile65N0Xt\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657238891044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657238895408	Marionette	INFO	Stopped listening on port 49311657238898091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilepV5uqY"
+1657238898328	Marionette	INFO	Marionette enabled
+1657238898332	Marionette	INFO	Listening on port 49422
+Read port: 49422
+1657238898524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilepV5uqY\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657238915060	geckodriver	INFO	Listening on 127.0.0.1:49520
+1657238918088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileOuXYwm"
+1657238918310	Marionette	INFO	Marionette enabled
+1657238918313	Marionette	INFO	Listening on port 49533
+Read port: 49533
+1657238918383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileOuXYwm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657239008722	Marionette	INFO	Stopped listening on port 49533
+1657239010543	geckodriver	INFO	Listening on 127.0.0.1:49675
+1657239013576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileamNRJ4"
+1657239013791	Marionette	INFO	Marionette enabled
+1657239013794	Marionette	INFO	Listening on port 49689
+Read port: 49689
+1657239013863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileamNRJ4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239023159	Marionette	INFO	Stopped listening on port 49689
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657239429732	geckodriver	INFO	Listening on 127.0.0.1:58088
+1657239432770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileuk7KdH"
+1657239433000	Marionette	INFO	Marionette enabled
+1657239433003	Marionette	INFO	Listening on port 58101
+Read port: 58101
+1657239433184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileuk7KdH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239455968	Marionette	INFO	Stopped listening on port 58101
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657239481521	geckodriver	INFO	Listening on 127.0.0.1:58223
+1657239484549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilefSm954"
+1657239484761	Marionette	INFO	Marionette enabled
+1657239484764	Marionette	INFO	Listening on port 58241
+Read port: 58241
+1657239484834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilefSm954\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239509250	Marionette	INFO	Stopped listening on port 58241
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 23608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657239541033	geckodriver	INFO	Listening on 127.0.0.1:58352
+1657239544064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilel20vZZ"
+1657239544276	Marionette	INFO	Marionette enabled
+1657239544279	Marionette	INFO	Listening on port 58365
+Read port: 58365
+1657239544350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilel20vZZ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239562998	Marionette	INFO	Stopped listening on port 58365
+1657239618393	geckodriver	INFO	Listening on 127.0.0.1:58480
+1657239621419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileaxYN28"
+1657239621632	Marionette	INFO	Marionette enabled
+1657239621635	Marionette	INFO	Listening on port 58493
+Read port: 58493
+1657239621704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileaxYN28\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239627574	Marionette	INFO	Stopped listening on port 58493
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657239642133	geckodriver	INFO	Listening on 127.0.0.1:58595
+1657239645151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilejm62BL"
+1657239645365	Marionette	INFO	Marionette enabled
+1657239645368	Marionette	INFO	Listening on port 58608
+Read port: 58608
+1657239645441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilejm62BL\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239668109	Marionette	INFO	Stopped listening on port 58608
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657239710313	geckodriver	INFO	Listening on 127.0.0.1:58720
+1657239713340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilePFx6yb"
+1657239713573	Marionette	INFO	Marionette enabled
+1657239713576	Marionette	INFO	Listening on port 58732
+Read port: 58732
+1657239713754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofilePFx6yb\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58857
+1657239790243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileukiILs"
+1657239790465	Marionette	INFO	Marionette enabled
+1657239790468	Marionette	INFO	Listening on port 58873
+Read port: 58873
+1657239790537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileukiILs\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657239822540	Marionette	INFO	Stopped listening on port 58873
+1657239845669	geckodriver	INFO	Listening on 127.0.0.1:58983
+1657239848708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileem9pgH"
+1657239848925	Marionette	INFO	Marionette enabled
+1657239848928	Marionette	INFO	Listening on port 58995
+Read port: 58995
+1657239848997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileem9pgH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 16936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s8, line 1593: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s15. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s15. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s15. Code 2152398879.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1657241323243	geckodriver	INFO	Listening on 127.0.0.1:55035
+1657241363424	geckodriver	INFO	Listening on 127.0.0.1:55056
+1657241366452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile2bweru"
+1657241366692	Marionette	INFO	Marionette enabled
+1657241366696	Marionette	INFO	Listening on port 55068
+Read port: 55068
+1657241366891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile2bweru\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657241379409	geckodriver	INFO	Listening on 127.0.0.1:55167
+1657241382445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileN8bZoi"
+1657241382660	Marionette	INFO	Marionette enabled
+1657241382664	Marionette	INFO	Listening on port 55180
+Read port: 55180
+1657241382735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileN8bZoi\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657245816171	geckodriver	INFO	Listening on 127.0.0.1:51455
+1657245819194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileGW4TYH"
+1657245819411	Marionette	INFO	Marionette enabled
+1657245819414	Marionette	INFO	Listening on port 51468
+Read port: 51468
+1657245819483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileGW4TYH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657245825916	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657245826628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657245827352	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657245828078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246058021	geckodriver	INFO	Listening on 127.0.0.1:51751
+1657246061061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileYL94xQ"
+1657246061269	Marionette	INFO	Marionette enabled
+1657246061272	Marionette	INFO	Listening on port 51763
+Read port: 51763
+1657246061342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileYL94xQ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s3, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s4, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s5, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246151549	geckodriver	INFO	Listening on 127.0.0.1:51925
+1657246154581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile01uE0s"
+1657246154823	Marionette	INFO	Marionette enabled
+1657246154827	Marionette	INFO	Listening on port 51938
+Read port: 51938
+1657246154996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofile01uE0s\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s3, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s4, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246178733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657246209226	geckodriver	INFO	Listening on 127.0.0.1:52064
+1657246212271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileS2lpsT"
+1657246212494	Marionette	INFO	Marionette enabled
+1657246212497	Marionette	INFO	Listening on port 52077
+Read port: 52077
+1657246212572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileS2lpsT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s2, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s3, line 1605: TypeError: MutationObserver.observe: Argument 1 is not an object.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246237338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246243167	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246248712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246254460	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246260401	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246387516	geckodriver	INFO	Listening on 127.0.0.1:52274
+1657246390541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileJGvFB2"
+1657246390765	Marionette	INFO	Marionette enabled
+1657246390768	Marionette	INFO	Listening on port 52286
+Read port: 52286
+1657246390839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileJGvFB2\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1657246440845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileAFniXI"
+1657246441066	Marionette	INFO	Marionette enabled
+1657246441069	Marionette	INFO	Listening on port 52415
+Read port: 52415
+1657246441141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileAFniXI\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+SourceActor threw an exception: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://www.canadapost-postescanada.ca/information/app/far/business/findARate?execution=e1s1. Code 2152398879.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246860379	geckodriver	INFO	Listening on 127.0.0.1:52765
+1657246863413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileIQJLg5"
+1657246863633	Marionette	INFO	Marionette enabled
+1657246863636	Marionette	INFO	Listening on port 52778
+Read port: 52778
+1657246863705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileIQJLg5\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
+1657246889215	Marionette	INFO	Stopped listening on port 52778
+1657246890517	geckodriver	INFO	Listening on 127.0.0.1:52885
+1657246893547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileV0yszd"
+1657246893760	Marionette	INFO	Marionette enabled
+1657246893764	Marionette	INFO	Listening on port 52898
+Read port: 52898
+1657246893839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lucas\\AppData\\Local\\Temp\\rust_mozprofileV0yszd\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://assets.adobedtm.com/8555ef77443acd85ab4eb6b187cf7ed7fe0f79eb/satelliteLib-f2fc6f00da802a0747b6ffed3c12e3931bfca496.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.canadapost-postescanada.ca"
